@@ -27,6 +27,9 @@ public class PrimeNumbers {
 		System.out.println("Primzahlen: " + counter);
 		System.out.println("test for github");
 		
+		
+		
+		
 	}
 
 }
