@@ -5,9 +5,8 @@ public class PrimeNumbers {
 	
 	
 	public static void main(String[] args){
-		
-		
-		int limit = 100000;
+
+		int limit = 10000;
 		int counter = 0;
 		boolean primzahl;
 		for(int zahl = 2; zahl <= limit; zahl++){
