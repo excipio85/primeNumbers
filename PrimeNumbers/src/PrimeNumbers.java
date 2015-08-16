@@ -1,10 +1,8 @@
 
 public class PrimeNumbers {
-	
-	// keinen positiven Divisor 
-	
-	
-	public static void main(String[] args){
+
+    // keinen positiven Divisor
+    public static void main(String[] args){
 
 		int limit = 10000;
 		int counter = 0;
@@ -25,10 +23,7 @@ public class PrimeNumbers {
 		}
 		System.out.println("Primzahlen: " + counter);
 		System.out.println("test for github");
-		
-		
-		
-		
-	}
+
+    }
 
 }
